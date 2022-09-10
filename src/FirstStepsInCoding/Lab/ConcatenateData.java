@@ -10,6 +10,6 @@ public class ConcatenateData {
         int age = Integer.parseInt(scan.nextLine());
         String town = scan.nextLine();
 
-        System.out.print("You are " + firstName + " " + lastName", a" + age + "-years old person from " + town + ".");
+        System.out.print("You are " + firstName + " " + lastName + ", a " + age + "-years old person from " + town + ".");
     }
 }
