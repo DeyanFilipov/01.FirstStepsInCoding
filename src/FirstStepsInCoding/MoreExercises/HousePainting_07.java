@@ -24,4 +24,3 @@ public class HousePainting_07 {
         System.out.printf("%.2f\n%.2f", greenPaint, redPaint);
         }
 }
-
