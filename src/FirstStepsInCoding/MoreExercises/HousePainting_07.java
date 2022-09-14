@@ -21,9 +21,7 @@ public class HousePainting_07 {
         double triangles = 2 * (x * h / 2);
         double totalP2 = rectanglesRoof + triangles;
         double redPaint = totalP2 / 4.3;
-        System.out.printf("%.2f", greenPaint);
-        System.out.println();
-        System.out.printf("%.2f", redPaint);
+        System.out.printf("%.2f\n%.2f", greenPaint, redPaint);
         }
 }
 
